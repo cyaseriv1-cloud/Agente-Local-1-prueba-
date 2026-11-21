@@ -1,0 +1,16 @@
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.pyc
+
+# Logs y temporales
+*.log
+crash.log
+tmp/
+
+# Workspace archivos grandes / privados opcionales
+Workspace/sesiones/
+Workspace/*.pdf

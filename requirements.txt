@@ -1,0 +1,9 @@
+customtkinter
+requests
+beautifulsoup4
+duckduckgo-search
+PyPDF2
+python-docx
+tkinterdnd2
+pystray
+Pillow
